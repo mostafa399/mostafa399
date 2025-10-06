@@ -1,5 +1,7 @@
-# Hi there 👋, I'm Mostafa Helal  
-### 💻 Android Developer | Kotlin | Jetpack Compose  
+<div align="center">
+  <img src="banner.png" width="100%" alt="Mostafa Helal — Android Developer | Kotlin | Jetpack Compose"/>
+</div>
+
 
 🚀 Passionate Android Developer with hands-on experience building scalable, user-focused mobile applications using modern Android technologies.
 

@@ -13,10 +13,12 @@
 ---
 ### 🚀 Projects
 MyCash
-A system that allows issuing sales, services and receiving payments that allows managing sales, products and invoices and payments in integration with payment systems.
-  🔗 [Play Store Link](https://play.google.com/store/apps/details?id=com.codeIn.myCash&pli=1)
+- A system that allows issuing sales, services and receiving payments that allows managing sales, products and invoices and payments in integration with payment systems.
+ 🔗 [Play Store Link](https://play.google.com/store/apps/details?id=com.codeIn.myCash&pli=1)
 
-- [Desh&Dez App](https://deshanddez.com/)
+
+-At DESH & DEZ, we strive to redefine social media by blending live streaming, chat, and e-commerce into a seamless experience. Our mission is to empower users with innovative tools while fostering a vibrant online community.
+🔗 [Desh&Dez App](https://deshanddez.com/)
 
 
 ---
